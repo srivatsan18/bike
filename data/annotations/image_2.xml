@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bikes</folder>
+	<filename>aditya-joshi-K7x1dDOOpwQ-unsplash.jpg</filename>
+	<path>C:\Users\Srivatsan\Desktop\hackathon\cars\bikes\aditya-joshi-K7x1dDOOpwQ-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5437</width>
+		<height>3926</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2900</xmin>
+			<ymin>48</ymin>
+			<xmax>5100</xmax>
+			<ymax>3791</ymax>
+		</bndbox>
+	</object>
+</annotation>

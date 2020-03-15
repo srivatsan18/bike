@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bikes</folder>
+	<filename>julia-joppien-Grk6tF9XFcg-unsplash.jpg</filename>
+	<path>C:\Users\Srivatsan\Desktop\hackathon\cars\bikes\julia-joppien-Grk6tF9XFcg-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4896</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1135</xmin>
+			<ymin>1328</ymin>
+			<xmax>3356</xmax>
+			<ymax>2825</ymax>
+		</bndbox>
+	</object>
+</annotation>

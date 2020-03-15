@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bikes</folder>
+	<filename>eric-welch-JD0hDm3ZGYU-unsplash.jpg</filename>
+	<path>C:\Users\Srivatsan\Desktop\hackathon\cars\bikes\eric-welch-JD0hDm3ZGYU-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2541</xmin>
+			<ymin>496</ymin>
+			<xmax>4489</xmax>
+			<ymax>3999</ymax>
+		</bndbox>
+	</object>
+</annotation>

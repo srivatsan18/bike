@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bikes</folder>
+	<filename>brecht-denil-wayHATRMTzc-unsplash.jpg</filename>
+	<path>C:\Users\Srivatsan\Desktop\hackathon\cars\bikes\brecht-denil-wayHATRMTzc-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3269</width>
+		<height>4359</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>398</xmin>
+			<ymin>1927</ymin>
+			<xmax>3037</xmax>
+			<ymax>3484</ymax>
+		</bndbox>
+	</object>
+</annotation>

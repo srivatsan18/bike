@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bikes</folder>
+	<filename>mitchell-griest-WVjvi8hoTmc-unsplash.jpg</filename>
+	<path>C:\Users\Srivatsan\Desktop\hackathon\cars\bikes\mitchell-griest-WVjvi8hoTmc-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4240</width>
+		<height>2832</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>594</xmin>
+			<ymin>431</ymin>
+			<xmax>3391</xmax>
+			<ymax>2273</ymax>
+		</bndbox>
+	</object>
+</annotation>

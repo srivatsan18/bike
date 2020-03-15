@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bikes</folder>
+	<filename>tiffany-nutt-0ClfreiNppM-unsplash.jpg</filename>
+	<path>C:\Users\Srivatsan\Desktop\hackathon\cars\bikes\tiffany-nutt-0ClfreiNppM-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4758</width>
+		<height>3172</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1318</xmin>
+			<ymin>1506</ymin>
+			<xmax>3435</xmax>
+			<ymax>2999</ymax>
+		</bndbox>
+	</object>
+</annotation>

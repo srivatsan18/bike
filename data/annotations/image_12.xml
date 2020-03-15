@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bikes</folder>
+	<filename>harley-davidson-zGzXsJUBQfs-unsplash.jpg</filename>
+	<path>C:\Users\Srivatsan\Desktop\hackathon\cars\bikes\harley-davidson-zGzXsJUBQfs-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>2000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>835</xmin>
+			<ymin>555</ymin>
+			<xmax>1920</xmax>
+			<ymax>1465</ymax>
+		</bndbox>
+	</object>
+</annotation>

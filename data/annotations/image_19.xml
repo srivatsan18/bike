@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bikes</folder>
+	<filename>prithivi-rajan-cZbuTpU5RuY-unsplash.jpg</filename>
+	<path>C:\Users\Srivatsan\Desktop\hackathon\cars\bikes\prithivi-rajan-cZbuTpU5RuY-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bike</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>704</ymin>
+			<xmax>5838</xmax>
+			<ymax>4000</ymax>
+		</bndbox>
+	</object>
+</annotation>

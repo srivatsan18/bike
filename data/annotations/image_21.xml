@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bikes</folder>
+	<filename>sara-kurfess-I3JmJL2SG9Q-unsplash.jpg</filename>
+	<path>C:\Users\Srivatsan\Desktop\hackathon\cars\bikes\sara-kurfess-I3JmJL2SG9Q-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>6000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bike</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>481</ymin>
+			<xmax>3985</xmax>
+			<ymax>6000</ymax>
+		</bndbox>
+	</object>
+</annotation>

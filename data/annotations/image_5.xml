@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bikes</folder>
+	<filename>baptiste-c-david-UJ4-1Kbj_no-unsplash.jpg</filename>
+	<path>C:\Users\Srivatsan\Desktop\hackathon\cars\bikes\baptiste-c-david-UJ4-1Kbj_no-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5265</width>
+		<height>3510</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1648</xmin>
+			<ymin>1243</ymin>
+			<xmax>3626</xmax>
+			<ymax>2855</ymax>
+		</bndbox>
+	</object>
+</annotation>
